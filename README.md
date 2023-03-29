@@ -1,3 +1,3 @@
 # test
 for the test purposes
-This is a simple html/css ToDo app project.
+This is a simple html/css and Vanilla JS ToDo app project.
